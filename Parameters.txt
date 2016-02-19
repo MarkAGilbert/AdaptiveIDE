@@ -6,16 +6,16 @@ initial_popn_loc_x: 0
 initial_popn_loc_y: 1
 dispersal_distance: 1
 kernel_no: 5
-length: 160
+length: 100
 print: 1
 intrinsic_growth_rate: 50
-output_resolution: 100
+output_resolution: 1
 T: 10
 threshcoarse2: 1e-10
 threshcoarse3: .001
-landscape_width: 52
-landscape_length: 28
-region_width: 1000
+landscape_width: 10
+landscape_length: 10
+region_width: 100
 threshcoarse: .5
 threshfine: 1e-13
 
